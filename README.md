@@ -10,6 +10,8 @@ https://leetcode.com/list/eeudwo2i/
 
 https://leetcode.ca/all/problems.html
 
+https://yesijob.com/seaway-7-careers-usa-uk-netherlands-germany/
+
 Landing great jobs is about more than just luck.
 
 Here are 8 habits of highly effective job seekers:
