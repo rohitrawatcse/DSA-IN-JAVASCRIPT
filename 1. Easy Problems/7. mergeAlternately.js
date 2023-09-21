@@ -25,12 +25,12 @@
 //             result.append(word2.charAt(j++));
 //         }
 
-//         // Append any remaining characters from word1
+        // Append any remaining characters from word1
 //         while (i < len1) {
 //             result.append(word1.charAt(i++));
 //         }
 
-//         // Append any remaining characters from word2
+        // Append any remaining characters from word2
 //         while (j < len2) {
 //             result.append(word2.charAt(j++));
 //         }
