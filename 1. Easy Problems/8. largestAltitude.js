@@ -16,6 +16,21 @@
 // Code
 
 
+
+function largestAltitude(gain) {
+    let high = gain[0];
+
+    for (let i = 1; i < gain.length; i++) {
+        gain[i] += gain[i - 1];
+        if (gain[i] > high) {
+            high = gain[i];
+        }
+    }
+
+    return high < 0 ? 0 : high;
+}
+
+
 // class Solution {
 //     public int largestAltitude(int[] gain) {
 //         int high=gain[0];
